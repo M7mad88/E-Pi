@@ -13,9 +13,15 @@ Predicting Compressive Strength of Concrete given its age and quantitative measu
 2. Data Description
 
 Number of instances - 1030
+
 Number of Attributes - 9
-Attribute breakdown - 8 quantitative inputs, 1 quantitative output
+
+Attribute breakdown 
+
+8quantitative inputs, 1 quantitative output
+
 Attribute information
+
 Inputs
 Cement
 Blast Furnace Slag
